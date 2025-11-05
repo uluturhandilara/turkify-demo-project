@@ -1,5 +1,8 @@
 # Turkify Demo Project 🚀
 
+<img width="1457" height="828" alt="Ekran Resmi 2025-11-05 18 07 42" src="https://github.com/user-attachments/assets/4617a007-5762-4de0-88a8-1043a4cebd76" />
+<img width="1457" height="828" alt="Ekran Resmi 2025-11-05 18 07 49" src="https://github.com/user-attachments/assets/ae7ad00f-457b-414e-a9cb-0013071ab7cc" />
+
 Bu proje, [turkify](https://www.npmjs.com/package/turkify) npm paketinin tüm özelliklerini interaktif olarak gösteren bir demo uygulamasıdır.
 
 ## 🎯 Özellikler
